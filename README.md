@@ -54,7 +54,7 @@ Los números complejos que se componen de bienes (el componente activo) e imagin
 
 ![](https://github.com/iaportero/Practica7-Fasores/blob/main/Imagenes/im%206.png)
 
-
+j
 
 
 
