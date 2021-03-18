@@ -25,6 +25,8 @@ Los números complejos representan puntos en un complejo de dos dimensiones o pl
 
 ![](https://github.com/iaportero/Practica7-Fasores/blob/main/Imagenes/im%201.png)
 
+*  Conversion de forma rectangular a polar y viceversa
+
 En la forma rectangular, un número complejo se puede representar como un punto en un plano de dos dimensiones llamado el complejo o plano 
 
 A diferencia de la forma rectangular que traza puntos en el plano complejo, la forma polar de un número complejo está escrito en términos de su magnitud y el ángulo
