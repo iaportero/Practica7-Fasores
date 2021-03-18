@@ -39,3 +39,31 @@ Los números complejos que se componen de bienes (el componente activo) e imagin
 
 
 ![](https://github.com/iaportero/Practica7-Fasores/blob/main/Imagenes/im%203.png)
+
+
+3.  Lista de componentes
+
+![](https://github.com/iaportero/Practica7-Fasores/blob/main/Imagenes/im%204.png)
+
+4.  Explicacion
+
+4.1  Transformar a su forma polar 
+
+
+![](https://github.com/iaportero/Practica7-Fasores/blob/main/Imagenes/im%205.png)
+
+![](https://github.com/iaportero/Practica7-Fasores/blob/main/Imagenes/im%206.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
