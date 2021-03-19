@@ -111,7 +111,17 @@ Principios de Circuitos Electricos, Floyd .L.Thomas,Mexico 2007,Recuperado :18-0
 Números complejos y fasores en Polar y Forma Rectangular | Tutoriales de electrónica básica. (n.d.). Retrieved March 18, 2021, from http://tutorialesdeelectronicabasica.blogspot.com/2016/06/numeros-complejos-y-fasores-en-polar-y.html
 
 
+10. Anexos
 
+Link del video
+
+https://youtu.be/xG_jATXx1NI
+
+https://youtu.be/7dFOrVjrmA0
+
+Link de los calculos 
+
+https://github.com/iaportero/Practica7-Fasores/blob/main/Codigo%20Fuente/Guia7definitivo.pdf
 
 
 
