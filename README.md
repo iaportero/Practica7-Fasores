@@ -71,14 +71,6 @@ Los números complejos que se componen de bienes (el componente activo) e imagin
 
 ![](https://github.com/iaportero/prueba-/blob/main/im%2013.png)
 
-4.3  Realice las siguientes operaciones paso a paso, y represente el resultado tanto en su forma
-rectangular como en su forma polar.
-
-![](https://github.com/iaportero/prueba-/blob/main/im%2014.png)
-
-![](https://github.com/iaportero/prueba-/blob/main/im%2015.png)
-
-![](https://github.com/iaportero/prueba-/blob/main/im%2016.png)
 
 
 
