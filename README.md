@@ -99,6 +99,8 @@ https://github.com/iaportero/Practica7-Fasores/tree/main/Hojas%20Tecnicas
 
 8. Conclusiones 
 
+* Se concluyo que las operaciones realizadas con fasores , se las puede realizar en forma polar o rectangular , segun la facilidad de calculo que requiera el ejercicio
+
 *  Las operaciones aritmeticas realizadas en el dominio fasorial , tienden a ser mas facil su resolucion cuando estan en forma polar 
 
 * Las soluciones arrojadas por los calculos teoricos , coinciden con las respuestas mostradas en la calculadora por lo que se concluye que el procedimiento de resolucion es correcto.
