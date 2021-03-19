@@ -54,14 +54,15 @@ Los números complejos que se componen de bienes (el componente activo) e imagin
 
 ![](https://github.com/iaportero/Practica7-Fasores/blob/main/Imagenes/im%206.png)
 
-![](
+![](https://github.com/iaportero/Practica7-Fasores/blob/main/Imagenes/im%207.png)
 
-![](
+![](https://github.com/iaportero/Practica7-Fasores/blob/main/Imagenes/im%208.png)
 
-![](
+4.2  Transformar a su forma rectangular
 
-![](
+![](https://github.com/iaportero/Practica7-Fasores/blob/main/Imagenes/im%209.png)
 
+![](https://github.com/iaportero/Practica7-Fasores/blob/main/Imagenes/im%2010.png)
 
 ![](
 
