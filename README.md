@@ -103,7 +103,13 @@ https://github.com/iaportero/Practica7-Fasores/tree/main/Hojas%20Tecnicas
 
 * Las soluciones arrojadas por los calculos teoricos , coinciden con las respuestas mostradas en la calculadora por lo que se concluye que el procedimiento de resolucion es correcto.
 
-*
+
+9. Bibliografia
+
+Principios de Circuitos Electricos, Floyd .L.Thomas,Mexico 2007,Recuperado :18-03-2021 , Cap : 11 , Pag : 407-419
+
+Números complejos y fasores en Polar y Forma Rectangular | Tutoriales de electrónica básica. (n.d.). Retrieved March 18, 2021, from http://tutorialesdeelectronicabasica.blogspot.com/2016/06/numeros-complejos-y-fasores-en-polar-y.html
+
 
 
 
