@@ -64,13 +64,31 @@ Los números complejos que se componen de bienes (el componente activo) e imagin
 
 ![](https://github.com/iaportero/Practica7-Fasores/blob/main/Imagenes/im%2010.png)
 
-![](
+![](https://drive.google.com/file/d/15irxCajEDHCUC0KExNfZxMVTAwEKRlAB/view)
 
 ![](
 
 ![](
 
 ![](
+
+5. Manual de usuario
+
+https://github.com/iaportero/Practica7-Fasores/tree/main/Hojas%20Tecnicas
+
+
+6. Descripcion de prerrequsitos y configuracion
+
+*  Configurar previamente la calculadora de su preferencia 
+
+* Mantener en DEG la calculadora 
+
+*  Configurar para realizar las operaciones en dominio complejo 
+
+* Para mas informacion de configuracion ver en manual de usuario adjuntado : https://www.edu-casio.es/wp-content/uploads/2020/11/fx-570-991SP-X-II-Gui%CC%81a-del-usuario-Espan%CC%83ol.pdf
+
+8. Conclusiones 
+
 
 
 
