@@ -68,9 +68,19 @@ Los números complejos que se componen de bienes (el componente activo) e imagin
 
 ![](https://github.com/iaportero/prueba-/blob/main/im%2012.png)
 
-![](
 
-![](
+![](https://github.com/iaportero/prueba-/blob/main/im%2013.png)
+
+4.3  Realice las siguientes operaciones paso a paso, y represente el resultado tanto en su forma
+rectangular como en su forma polar.
+
+![](https://github.com/iaportero/prueba-/blob/main/im%2014.png)
+
+![](https://github.com/iaportero/prueba-/blob/main/im%2015.png)
+
+![](https://github.com/iaportero/prueba-/blob/main/im%2016.png)
+
+
 
 5. Manual de usuario
 
@@ -89,7 +99,11 @@ https://github.com/iaportero/Practica7-Fasores/tree/main/Hojas%20Tecnicas
 
 8. Conclusiones 
 
+*  Las operaciones aritmeticas realizadas en el dominio fasorial , tienden a ser mas facil su resolucion cuando estan en forma polar 
 
+* Las soluciones arrojadas por los calculos teoricos , coinciden con las respuestas mostradas en la calculadora por lo que se concluye que el procedimiento de resolucion es correcto.
+
+*
 
 
 
