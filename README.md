@@ -123,7 +123,7 @@ https://youtu.be/7dFOrVjrmA0
 
 Link de los calculos 
 
-https://github.com/iaportero/Practica7-Fasores/blob/main/Codigo%20Fuente/Guia7definitivo.pdf
+https://github.com/iaportero/Practica7-Fasores/blob/main/Codigo%20Fuente/Ejercicios.pdf
 
 
 
