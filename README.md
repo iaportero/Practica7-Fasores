@@ -17,7 +17,7 @@ Representar las diferentes soluciones tanto en forma polar como rectangular
 
 Comprobar las diferentes soluciones con la ayuda de calculadora cientifica 
 
-2.  Marco teorico
+2. Marco teorico / Diagramas
 
 * Fasores : Teoria y representacion grafica 
 
@@ -97,7 +97,7 @@ https://github.com/iaportero/Practica7-Fasores/tree/main/Hojas%20Tecnicas
 
 * Para mas informacion de configuracion ver en manual de usuario adjuntado : https://www.edu-casio.es/wp-content/uploads/2020/11/fx-570-991SP-X-II-Gui%CC%81a-del-usuario-Espan%CC%83ol.pdf
 
-8. Conclusiones 
+7.  Conclusiones
 
 * Se concluyo que las operaciones realizadas con fasores , se las puede realizar en forma polar o rectangular , segun la facilidad de calculo que requiera el ejercicio
 
@@ -106,14 +106,14 @@ https://github.com/iaportero/Practica7-Fasores/tree/main/Hojas%20Tecnicas
 * Las soluciones arrojadas por los calculos teoricos , coinciden con las respuestas mostradas en la calculadora por lo que se concluye que el procedimiento de resolucion es correcto.
 
 
-9. Bibliografia
+8.  Bibliografia
 
 Principios de Circuitos Electricos, Floyd .L.Thomas,Mexico 2007,Recuperado :18-03-2021 , Cap : 11 , Pag : 407-419
 
 Números complejos y fasores en Polar y Forma Rectangular | Tutoriales de electrónica básica. (n.d.). Retrieved March 18, 2021, from http://tutorialesdeelectronicabasica.blogspot.com/2016/06/numeros-complejos-y-fasores-en-polar-y.html
 
 
-10. Anexos
+9.Anexos
 
 Link del video
 
