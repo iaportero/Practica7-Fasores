@@ -23,7 +23,7 @@ Comprobar las diferentes soluciones con la ayuda de calculadora cientifica
 
 Los números complejos representan puntos en un complejo de dos dimensiones o plano s que se hace referencia a dos ejes distintos. En el eje horizontal se llama el "eje real", mientras que el eje vertical se llama el "eje imaginario".
 
-![](https://github.com/iaportero/Practica7-Fasores/blob/main/Imagenes/im%201.png)
+![](https://github.com/iaportero/Practica7-Fasores/blob/main/Imagenes/im%201s%20(2).png)
 
 *  Conversion de forma rectangular a polar y viceversa
 
@@ -31,14 +31,14 @@ En la forma rectangular, un número complejo se puede representar como un punto 
 
 A diferencia de la forma rectangular que traza puntos en el plano complejo, la forma polar de un número complejo está escrito en términos de su magnitud y el ángulo
 
-![](https://github.com/iaportero/Practica7-Fasores/blob/main/Imagenes/im%202.png)
+![](https://github.com/iaportero/Practica7-Fasores/blob/main/Imagenes/im%202s%20(1).png)
 
 *  Operaciones con numeros complejos 
 
 Los números complejos que se componen de bienes (el componente activo) e imaginario (el componente reactivo) números se pueden sumar, restar y se utilizan exactamente de la misma manera que el álgebra elemental se utiliza para analizar los circuitos de corriente continua .
 
 
-![](https://github.com/iaportero/Practica7-Fasores/blob/main/Imagenes/im%203.png)
+![](https://github.com/iaportero/Practica7-Fasores/blob/main/Imagenes/im%203s.png)
 
 
 3.  Lista de componentes
